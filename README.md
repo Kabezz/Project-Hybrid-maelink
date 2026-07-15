@@ -1,2 +1,2 @@
-# Project-Hybrid-maelink
+# Project Hybrid
 Project Hybrid, a maelink client in Scratch, using Iframes for its post interface.
